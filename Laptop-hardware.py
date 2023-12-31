@@ -1,3 +1,5 @@
+# This was created with Google Bard given the Professor Messer CompTIA A+ 220-1101 1.1 Laptop Hardware Youtube Video url: https://www.youtube.com/watch?v=y7oHZ1mi7e4
+
 import random
 
 # Create a word bank
