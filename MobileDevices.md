@@ -1,10 +1,9 @@
----
 <style>
 mark{
-    color:#cbf3f5;
+    color:red;
 }
 </style>
----
+
 # Table of contents
 1. [Introduction](#introduction)
 2. [Objective 1.1](#1.1)
