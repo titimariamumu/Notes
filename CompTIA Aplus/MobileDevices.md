@@ -1,12 +1,6 @@
 <link href="style.css" rel="stylesheet"></link>
 
 
-<style>
-mark{
-    color:red;
-}
-</style>
-
 # Table of contents
 1. [Introduction](#introduction)
 2. [Objective 1.1](#1.1)
