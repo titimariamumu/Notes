@@ -51,7 +51,7 @@ Rules for Repair:
      - numbers of screws
      - cable and component locations
      - recommended tools
-2. Use appropriate hand toools for case disassembly and component removal
+2. Use appropriate hand tools for case disassembly and component removal
    - Appropriate tools, used with caution, prevents damage to laptop
 3. Document and label cable and screw locations
    - Take photos at different stages of dissasembly to help with reassembly
