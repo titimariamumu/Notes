@@ -9,6 +9,7 @@
   - [Objective 1.2 -  Compare and contrast the display components of mobile devices.](#objective-12----compare-and-contrast-the-display-components-of-mobile-devices)
   - [Objective 1.3 - Given a scenario, set up and configure accessories and ports of mobile devices.](#objective-13---given-a-scenario-set-up-and-configure-accessories-and-ports-of-mobile-devices)
   - [Objective 1.4 - Given a scenario, configure basic mobile device network connectivity and applicatoin support.](#objective-14---given-a-scenario-configure-basic-mobile-device-network-connectivity-and-applicatoin-support)
+  - [Vocabulary](#vocabulary)
 
 ## Introduction <a name="introduction"></a>
 These are my notes for Rick McDonald's CompTIA A+ Core 1 (220-1101) and Core 2 Cert Guide, **Chapter 1: Mobile Devices**.
@@ -19,15 +20,6 @@ Photo Credit: [Manny Moreno on Unsplash.com](https://unsplash.com/@mannydream)
 
 ## Objective 1.1 - Given a scenario, install and configure laptop hardware and components.
  <a name="1.1"></a>
-
-Vocabulary
-- **OEM**: Original Equipment Manufacturer
-- **HDD**: Hard disk drive
-- **SDD**: Solid-state drive
-- **SSHD**: Solid-state hybrid drive 
-- **Hard drive migration**: The process of copying or cloning data from an old hard drive to a new hard drive
-- **BIOS**: Basic Input/Output System -  a firmware program stored on your computer's motherboard that acts like an interpreter between the operating system and the hardware devices. It's the first program that runs when you turn on your computer, initializing the hardware and preparing it for the operating system to take over.
-- **SO-DIMM**: Small Outline Dual In-line Memory Module 
 
 Parts of a Laptop:
 
@@ -181,3 +173,15 @@ Hard drive migration How-to:
 > - App or web service installed
 > - Web access
 > - Data caps
+
+## Vocabulary 
+<a name = "vocabulary"></a>
+
+- **OEM**: Original Equipment Manufacturer
+- **HDD**: Hard disk drive
+- **SDD**: Solid-state drive
+- **SSHD**: Solid-state hybrid drive 
+- **Hard drive migration**: The process of copying or cloning data from an old hard drive to a new hard drive
+- **BIOS**: Basic Input/Output System -  a firmware program stored on your computer's motherboard that acts like an interpreter between the operating system and the hardware devices. It's the first program that runs when you turn on your computer, initializing the hardware and preparing it for the operating system to take over.
+- **SO-DIMM**: Small Outline Dual In-line Memory Module 
+
