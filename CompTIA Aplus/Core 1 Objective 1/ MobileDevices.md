@@ -58,8 +58,7 @@ Rules for Repair:
 4. Organize parts
    - use a tray with multiple-compartments and a magnetic dish to prevent the loss of parts 
 
- ![alt text](image.png)
- ![alt text](image-1.png)
+ 
 
 ### Keyboard Access
 
@@ -110,7 +109,7 @@ How to remove and replace a storage device:
 9. Reverse steps to install new drive
 10. After the system is restarted, start the computer and enter the BIOS or UEFI setup program to verify that the system has properly recognized the new hard drive
 
-![alt text](image-4.png)
+
 
 Hard drive migration How-to:
 1. Creat a full backup of the computer on an external drive
