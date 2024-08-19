@@ -6,7 +6,7 @@
     - [Laptop Access](#laptop-access)
     - [Keyboard Access](#keyboard-access)
     - [Hard Drive Storage](#hard-drive-storage)
-    -   [Comparison of HDD, SSD, and SSH](#drive-comparison)
+      - [Comparison of HDD, SSD, and SSH](#drive-comparison)
     - [Memory](#memory)
   - [Objective 1.2 -  Compare and contrast the display components of mobile devices.](#objective-12----compare-and-contrast-the-display-components-of-mobile-devices)
   - [Objective 1.3 - Given a scenario, set up and configure accessories and ports of mobile devices.](#objective-13---given-a-scenario-set-up-and-configure-accessories-and-ports-of-mobile-devices)
